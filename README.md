@@ -1,2 +1,7 @@
-# auto-fireplace
-Automatic faux fireplace control - on/off based on room occupancy. 
+Automatic Faux Fireplace
+
+This sketch was written to in order to automate the turning off and on of a faux fireplace base on room occupancy.
+
+For more information see - https://adambyers.com/2015/04/automatic-fauxfake-fireplace/
+
+All code (except external libraries and third party code) is published under the MIT License.
